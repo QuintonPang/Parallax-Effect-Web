@@ -1,0 +1,5 @@
+export { default as Spring } from './spring.jpg'
+export { default as Summer } from './summer.jpg'
+export { default as Autumn } from './autumn.jpg'
+export { default as Winter } from './winter.jpg'
+export { default as Cat } from './cat.gif'
